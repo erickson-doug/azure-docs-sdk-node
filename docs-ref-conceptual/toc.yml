@@ -27,10 +27,9 @@
       items:
         - name: Deploy with Visual Studio Code
           href: node-howto-e2e.md
-        - name: Deploy with Visual Studio Code
+        - name: Deploy with VSTS
           href: node-howto-e2e.md
           maintainContext: true
-          href: node-howto-e2e.md
         - name: Create a REST API 
           href: http://docs.microsoft.com/azure/app-service-api/app-service-api-nodejs-api-app
           maintainContext: true
