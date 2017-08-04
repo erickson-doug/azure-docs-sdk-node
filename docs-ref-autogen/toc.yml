@@ -1,6 +1,6 @@
 - name: azure-arm-advisor
   uid: azure-arm-advisor
-  topicHref: azure-arm-advisor\index.md
+  landingPageType: Service
   items:
     - uid: azure-arm-advisor.AdvisorManagementClient
       name: AdvisorManagementClient
